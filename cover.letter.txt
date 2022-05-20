@@ -1,0 +1,26 @@
+Bonjour,
+
+Je me permets de vous solliciter pour le poste de "Testeur / Testeuse informatique (H/F)" pour lequel je souhaite vous proposer ma candidature. Veuillez trouver en pièce jointe mon CV.
+Je me tiens à votre disposition pour toutes questions relatives à mon profil.
+
+Bien cordialement.
+
+
+75 PARIS 09 :
+o create test plans, you will take part in the creation of new automation testing workflows / test cases (end-to-end testing, performance testing, load testing);
+ Set up a QA process to ensure the quality of deployments made in production; Reproduce and qualify reports related to incidents / bugs on our platforms reported by students,
+ our customer service advisors and teachers; Define and monitor QA KPIs while producing regular reports; Document all new procedures and create a QA knowledge base. 
+
+Technical Skills
+
+QA and development technologies knowledges such as SoapUI (Groovy script), Postman, Gitlab, Jenkins, …
+Experience in REST APIs required.
+Experience working in an agile environment.
+
+
+
+Thank you for reaching out to me.I am very much interested in QA engineer position that you've mentioned as I have a related experience in the testing field.
+I have attached updated CV with this mail for your reference.
+I would like to discuss about my qualifications and professional work experience in detail,if needed.
+Thank you for your consideration and hoping to hear from you soon.
+
